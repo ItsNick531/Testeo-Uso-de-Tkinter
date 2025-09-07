@@ -4,9 +4,9 @@ from tkinter import messagebox
 def tomar_datos():
     messagebox.showinfo("Lectura", "Simulando toma de datos...")
 
-# Crear ventana
+# Crear una ventana
 root = tk.Tk()
-root.title("Monitoreo de Planta - Test")
+root.title("Test")
 root.geometry("300x150")
 
 # Etiqueta
